@@ -4,7 +4,7 @@ const Home = () => {
 	return (
 		<div className={styles.mainContainer}>
 			<Navbar />
-			que onda
+			que onda mondonga
 		</div>
 	);
 };
